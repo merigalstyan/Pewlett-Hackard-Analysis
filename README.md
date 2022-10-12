@@ -1,10 +1,10 @@
 # Employee Database Analysis
 
-## Overview of the analysis: 
+## Overview of the analysis
 
 For this analysis, several **CSV** files were provided to clean and organize into readable, valuable employee data. The company's original objective was to find the number of current employees soon to be retired. 
 
-### Purpose:
+### Purpose
 
 This analysis was conducted to determine the number of retiring employees per title and identify eligible employees to participate in a mentorship program. The number of retiring employees per title will help understand all the vacant positions the company will have.
 
